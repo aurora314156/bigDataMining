@@ -2,12 +2,12 @@
 
 This repository is for 2018 NTUT BDA course program copy.
 
-# Environment
+### Environment
 
 - Spark + Hadoop
 
-# Code Language
+### Code Language
  - Python
  
-# DataSet
+### DataSet
  - UCI Machine Learning Repository
