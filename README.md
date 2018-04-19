@@ -1,4 +1,4 @@
-# bigDataMining
+# Big Data Mining
 
 This repository is for 2018 NTUT BDA course program copy.
 
@@ -9,5 +9,5 @@ This repository is for 2018 NTUT BDA course program copy.
 ### Code Language
  - Python
  
-### DataSet
+### Data Set
  - UCI Machine Learning Repository
