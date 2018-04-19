@@ -1,10 +1,13 @@
-
 # bigDataMining
 
-##This repository is for 2018 NTUT BDA course copy.
+This repository is for 2018 NTUT BDA course program copy.
 
-###Environment: Spark + Hadoop
+# Environment
 
-###Language: Python
+- Spark + Hadoop
 
-###DataSet: UCI Machine Learning Repository
+# Code Language
+ - Python
+ 
+# DataSet
+ - UCI Machine Learning Repository
