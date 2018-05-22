@@ -1,10 +1,11 @@
 # Big Data Mining
 
-This repository is for 2018 NTUT BDA course program copy.
+This repository is for 2018 NTUT BDA course homework backup.
 
 ### Environment
 
 - Spark + Hadoop
+
 
 ### Code Language
  - Python
